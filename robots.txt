@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kelarislar.github.io/sitemap.xml
